@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhrhee
 - 👀 I’m interested in cybersecurity research and education.
-- 📫 How to reach me? Please visit my page at https://github.com/jhrhee/
+- 📫 How to reach me? Please visit [my page](https://rhee.systems/).
 
 <!---
 jhrhee/jhrhee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
