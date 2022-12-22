@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhrhee
+- 👋 Hi, I’m John Rhee
 - 👀 I’m interested in cybersecurity research and education.
 - 📫 How to reach me? Please visit [my page](https://rhee.systems/).
 
