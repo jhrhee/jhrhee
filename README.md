@@ -1,3 +1,2 @@
-- 👋 Hi, I am John Rhee.
-- 👀 I am interested in cybersecurity research and education.
-- 📫 How to reach me? Please visit [my page](https://rhee.systems/).
+- Hi, I am John Rhee.
+- My homepage: [my page](https://rhee.systems/).
